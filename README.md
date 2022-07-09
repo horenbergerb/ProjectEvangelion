@@ -8,12 +8,12 @@ We outline the goals for each of the Impacts below.
 
 ## The Prophecy
 
-### ~~First Impact~~ Done
+### (Done) First Impact
 
-- ~~Create a Github repository and documentation outlining the Evangelion Project~~ Done
-- ~~Create Lilith, a python interface for using a trained GPT-2 model to generate discord messages~~ Done
+- (Done) Create a Github repository and documentation outlining the Evangelion Project
+- (Done) Create Lilith, a python interface for using a trained GPT-2 model to generate discord messages
   - Lilith uses GPT-2 models which were fine-tuned on Discord DMs using [FriendSimulator](https://github.com/horenbergerb/FriendSimulator)
-- ~~Create Unit01, which connects Lilith to a Discord account and facilitates simple conversations~~ Done
+- (Done) Create Unit01, which connects Lilith to a Discord account and facilitates simple conversations
 
 An example of Lilith generating dialogue (Output from `FirstImpact/DemoLilith.py`)
 
@@ -25,11 +25,11 @@ An example of Unit01 (the inverted logo) conversing with its creator (Output fro
 
 ### Second Impact
 
-- ~~Create a prototype Discord server~~ Done
-  - ~~Create original channels and duplicate hidden channels~~ Done
+- (Done) Create a prototype Discord server
+  - (Done) Create original channels and duplicate hidden channels
     - I created a category 'TEXT CHANNELS' for the real channels and another category 'TEXT CHANNEL' which contains the duplicates
     - We will refer to these as "real channels" and "heaven channels" respectively
-  - ~~Create two roles, one of which sees only the original channels, the other of which sees only the duplicates~~ Done
+  - (Done) Create two roles, one of which sees only the original channels, the other of which sees only the duplicates
     - I created the roles 'Default' and 'DefauIt', which are indiscernible in the default Discord font
 - Create Evangelion for all of the users we intend to intimidate
   - Maybe 2-3 Discord accounts including Unit01
